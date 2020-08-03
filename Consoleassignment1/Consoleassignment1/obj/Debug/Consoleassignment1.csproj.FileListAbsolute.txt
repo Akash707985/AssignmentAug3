@@ -1,0 +1,10 @@
+D:\DotNetConsoleApps\Consoleassignment1\Consoleassignment1\bin\Debug\Consoleassignment1.exe.config
+D:\DotNetConsoleApps\Consoleassignment1\Consoleassignment1\bin\Debug\Consoleassignment1.exe
+D:\DotNetConsoleApps\Consoleassignment1\Consoleassignment1\bin\Debug\Consoleassignment1.pdb
+D:\DotNetConsoleApps\Consoleassignment1\Consoleassignment1\obj\Debug\Consoleassignment1.csproj.CoreCompileInputs.cache
+D:\DotNetConsoleApps\Consoleassignment1\Consoleassignment1\obj\Debug\Consoleassignment1.exe
+D:\DotNetConsoleApps\Consoleassignment1\Consoleassignment1\obj\Debug\Consoleassignment1.pdb
+D:\DotNetConsoleApps\Consoleassignment1\Consoleassignment1\obj\Debug\Consoleassignment1.csprojAssemblyReference.cache
+D:\DotNetConsoleApps\Consoleassignment1\Consoleassignment1\bin\Debug\ClassAssignLib.dll
+D:\DotNetConsoleApps\Consoleassignment1\Consoleassignment1\bin\Debug\ClassAssignLib.pdb
+D:\DotNetConsoleApps\Consoleassignment1\Consoleassignment1\obj\Debug\Consoleassignment1.csproj.CopyComplete
